@@ -1,0 +1,10 @@
+# Ignore everything
+*
+
+# Except twitter_digests directory and its .md files
+!/twitter_digests
+/twitter_digests/*
+!/twitter_digests/*.md
+
+# And this .gitignore file
+!/.gitignore
